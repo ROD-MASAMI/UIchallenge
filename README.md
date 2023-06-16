@@ -1,6 +1,7 @@
 # UIchallenge
 This is a screenshot of how the application looks like
-![Screenshot_1686942763](https://github.com/ROD-MASAMI/UIchallenge/assets/88656560/e5692147-5d42-4709-ad06-05e485a02878)
+
+![Screenshot_1686942763](https://github.com/ROD-MASAMI/UIchallenge/assets/88656560/bac1b134-7bfc-47a8-b533-1330da8776a1)
 
 
 

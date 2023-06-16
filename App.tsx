@@ -24,7 +24,6 @@ import {
   LearnMoreLinks,
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
-import BottomTabs from './app/Navigators/BottomTabs';
 import HomeScreen from './app/Screens/HomeScreen';
 
 

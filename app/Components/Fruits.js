@@ -82,7 +82,7 @@ const Fruits = () => {
                 <Text
                   style={{
                     color: Colors.Secondary,
-                    fontSize: 18,
+                    fontSize: 16,
                   }}>
                   Tshs. {item.Price}
                 </Text>

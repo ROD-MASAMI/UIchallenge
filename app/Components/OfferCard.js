@@ -71,7 +71,7 @@ const Styles = StyleSheet.create({
     padding: 10,
   },
   button: {
-    width: '45%',
+    width: '53%',
     alignItems: 'center',
     justifyContent: 'center',
     backgroundColor: Colors.Secondary,

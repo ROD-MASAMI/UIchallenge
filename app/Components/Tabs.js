@@ -17,7 +17,7 @@ const Tabs = props => {
               onPress={() => props.onPress(index)}
               key={index}
               style={{
-                borderTopWidth: 2,
+                borderTopWidth: props.ActiveIndex === index ? 2 : 0,
                 borderColor:
                   props.ActiveIndex === index ? Colors.Secondary : Colors.Gray,
                 width: '20%',
